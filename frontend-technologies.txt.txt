@@ -1,0 +1,29 @@
+Frontend Technologies
+
+1. HTML (HyperText Markup Language)
+HTML is the structure of a webpage. It defines the content such as headings, paragraphs, images, links, and layout elements. Every website starts with HTML because it forms the basic skeleton of the UI.
+
+2. CSS (Cascading Style Sheets)
+CSS is used to style and format the HTML structure. It controls colors, fonts, spacing, layouts, animations, and responsiveness. With CSS, a plain HTML page becomes visually appealing and user-friendly.
+
+3. JavaScript (JS)
+JavaScript adds interactivity and dynamic behavior to web pages. It allows buttons to work, forms to validate, menus to toggle, and data to update without reloading the page. JavaScript makes websites more engaging and functional.
+
+
+4. React
+
+A JavaScript library for building user interfaces.
+
+Created by Facebook.
+
+Uses components and hooks to build fast, dynamic web apps.
+
+Excellent for big applications like dashboards, social media apps, etc.
+
+5. Vue
+
+A JavaScript framework that is very beginner-friendly.
+
+Similar to React but simpler to learn.
+
+Great for interactive web interfaces and scalable apps.
